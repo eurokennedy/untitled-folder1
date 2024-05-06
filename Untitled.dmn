@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<definitions xmlns="https://www.omg.org/spec/DMN/20230324/MODEL/" expressionLanguage="https://www.omg.org/spec/DMN/20230324/FEEL/" namespace="https://kie.org/dmn/_5615AFCF-05A0-4FBB-B09F-1409832462BC" id="_967D4A48-D425-4495-AAC4-0FD4AF10D8CD" name="DMN_B57B8DC1-C66B-499A-9B82-2BA7EDFE4F3B" xmlns:dmndi="https://www.omg.org/spec/DMN/20230324/DMNDI/" xmlns:dc="http://www.omg.org/spec/DMN/20180521/DC/" xmlns:di="http://www.omg.org/spec/DMN/20180521/DI/" xmlns:kie="https://kie.org/dmn/extensions/1.0">
+  <inputData name="Commit 1" id="_3B57CC47-9716-458A-AC1C-09E4431EB8C9">
+    <variable name="Commit 1" id="_1CD55725-310D-4FBC-BA09-094690F5250F" typeRef="&lt;Undefined&gt;" />
+  </inputData>
+  <dmndi:DMNDI>
+    <dmndi:DMNDiagram id="_DD12A824-456B-4BC6-A78F-83FA6AAC187A" name="Default DRD" useAlternativeInputDataShape="false">
+      <di:extension>
+        <kie:ComponentsWidthsExtension>
+          <kie:ComponentWidths />
+        </kie:ComponentsWidthsExtension>
+      </di:extension>
+      <dmndi:DMNShape id="_EC52A0A3-2221-47F3-BEEF-C67EF2B64EFB" dmnElementRef="_3B57CC47-9716-458A-AC1C-09E4431EB8C9" isCollapsed="false" isListedInputData="false">
+        <dc:Bounds x="440" y="100" width="160" height="80" />
+      </dmndi:DMNShape>
+    </dmndi:DMNDiagram>
+  </dmndi:DMNDI>
+</definitions>
